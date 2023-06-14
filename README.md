@@ -3,17 +3,17 @@ The Endgame project made as part of Marathon C of Innovation Campus KhPI 2022
 
 ## Made by :
 
-[Mark Tkachov] (https://github.com/MarkTkachov)
+[Mark Tkachov](https://github.com/MarkTkachov)
 
-[Yaroslav Pryshchepa] (https://github.com/trixxterzz)
+[Yaroslav Pryshchepa](https://github.com/trixxterzz)
 
-[Anya Trubnikova] (https://github.com/annatrubnikova)
+[Anya Trubnikova](https://github.com/annatrubnikova)
 
-[Misha Onyshchenko] (https://github.com/Sheeseburger)
+[Misha Onyshchenko](https://github.com/Sheeseburger)
 
-[Vira Karalnik] (https://github.com/jinjergirl)
+[Vira Karalnik](https://github.com/jinjergirl)
 
-[Danyil Tkachenko] (https://github.com/ProstoTkach)
+[Danyil Tkachenko](https://github.com/ProstoTkach)
 
 ### Special thanks to Pavlo Sapronov for voice lines!!!
 
