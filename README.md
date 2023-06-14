@@ -9,7 +9,7 @@ Yaroslav Pryshchepa
 
 Anya Trubnikova
 
-Misha Onyshchenko
+Misha Onyshchenko [Sheeseburger](https://github.com/Sheeseburger)
 
 Vera Karalnik
 
